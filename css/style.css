@@ -1,47 +1,47 @@
 html * {
-    font-family: "Noto Sans TC", "Microsoft JhengHei";
-    color: #444;
+  font-family: "Noto Sans TC", "Microsoft JhengHei";
+  color: #444;
 }
 
 body {
-    background: #fff;
-    width: 100vw;
-    height: 100vh;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  background: #fff;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .container {
-    width: 400px;
-    height: 700px;
-    border-radius: 30px;
-    background: #fff;
-    box-shadow: 10px 5px 40px #777;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
+  width: 400px;
+  height: 700px;
+  border-radius: 30px;
+  background: #fff;
+  box-shadow: 10px 5px 40px #777;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
 }
 
 form {
-    text-align: center;
+  text-align: center;
 }
 
 .info {
-    text-align: left;
+  text-align: left;
 }
 
 .mr5 {
-    margin-right: 5px;
+  margin-right: 5px;
 }
 
 .mr10 {
-    margin-right: 10px;
+  margin-right: 10px;
 }
 
 .mr15 {
-    margin-right: 15px;
+  margin-right: 15px;
 }
